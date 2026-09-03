@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center">Hi 👋, I'm Sanni Kumar</h1>
+<h1 align="center">Hi 👋, I'm Sanni</h1>
 
 <h3 align="center">
 🚀 Frontend Developer | MERN Stack Developer | Creative Editor
